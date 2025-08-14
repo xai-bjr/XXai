@@ -46,6 +46,36 @@ Fun fact: I enjoy turning ideas into apps and websites that people can use!
 GitHub: github.com/xai-bjr
 
 Email: xai@example.com
+# CENTRAL INTELLIGENCE AGENCY
+## SECRET AGENT PASSPORT
+
+**CLASSIFIED – EYES ONLY**  
+**AGENT IDENTITY – LEVEL 7 CLEARANCE**
+
+**Code Name:** AGENT XXai  
+**Agent Number:** 007-XXA-2025  
+**Date of Birth:** 7-9-2X11  
+**Specialty:** Cyber Operations & Programming  
+**Status:** Active  
+
+![CIA Logo](https://upload.wikimedia.org/wikipedia/commons/6/6d/CIA_logo.svg)
+
+**PROPERTY OF CENTRAL COMMAND**  
+IF FOUND, RETURN IMMEDIATELY
+
+**Signature of Agent:**  
+![Signature](https://yourdomain.com/path-to/XXai_Under.png)
 
 About this project:
 This is my hobby site where I share my interests in Cars, Space, Agents, and Programming. I like updating it regularly with new content, pictures, and fun facts.
+About Me – XXai
+
+Hello! I’m Hussain, a teenager from Taxila, Pakistan, who goes by the code name XXai online. I’m curious about the world and love exploring my passions: fast cars, the mysteries of space, secret agents, and programming.
+
+Like many teenagers, I enjoy learning new skills, playing games, browsing the internet, and trying fun experiments. But I also like to mix imagination with creativity, building small projects, writing stories, and sharing what I discover on my website, GearOrbit.
+
+Sometimes I dream of building a supercar in my garage, sometimes of traveling to distant planets, and sometimes of solving cyber puzzles like a secret agent on a mission. Programming is my superpower, letting me turn ideas into apps, websites, and projects that others can enjoy.
+
+At the end of the day, GearOrbit is my little corner of the universe where I mix creativity, curiosity, and fun. Every page, image, and project reflects my journey—and I hope it inspires other teenagers to explore their passions too.
+
+Fun fact: Even secret agents need hobbies… mine just happen to be faster, bigger, and a little out of this world! 🌌🕵️🏎️💻
