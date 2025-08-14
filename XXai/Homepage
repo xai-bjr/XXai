@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GearOrbit - XXai</title>
+  <link rel="stylesheet" href="style.css"> <!-- Optional CSS -->
+</head>
+<body>
+  <!-- Navigation -->
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="cars.html">Cars</a>
+    <a href="space.html">Space</a>
+    <a href="agents.html">Agents</a>
+    <a href="programming.html">Programming</a>
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <!-- Homepage Intro -->
+  <header>
+    <h1>Welcome to GearOrbit!</h1>
+    <p>Hello! I’m <strong>Hussain</strong>, also known as <strong>XXai</strong>. This is my hobby website where I share my passions for <strong>Cars, Space, Secret Agents, and Programming</strong>.</p>
+    <p>GearOrbit is my corner of the universe to explore, create, and share ideas. Here, you can learn fun facts, see images, and enjoy projects about things I love.</p>
+    <p>Every page shows one of my hobbies in detail, with images, facts, and stories that inspire curiosity and creativity.</p>
+    <p>Even secret agents need hobbies… mine happen to be faster, bigger, and a little out of this world! 🌌🕵️🏎️💻</p>
+  </header>
+
+  <!-- Optional Image -->
+  <section>
+    <img src="images/space.jpg" alt="Space Image" style="width:100%; max-width:800px;">
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>GitHub: <a href="https://github.com/xai-bjr">github.com/xai-bjr</a> | Email: xai@example.com</p>
+  </footer>
+</body>
+</html>
