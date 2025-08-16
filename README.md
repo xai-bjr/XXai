@@ -3,9 +3,21 @@
 Welcome to **GearOrbit**, my personal hobby site! Here, I share my passions for **Cars, Space, Agents, and Programming**. This website is where imagination meets learning, and I love combining facts, stories, and visuals to explore the world in my own way. Every section includes images, fun facts, and interesting details about my hobbies.
 
 ---
+Content
+-------------
+## Table of Contents
+- [Cars](#cars)
+- [Space](#space)
+- [Agents](#agents)
+- [Programming](#programming)
+- [Sad Songs](#sad-songs)
+- [About Me](#about-me)
+
 
 ## 🏎️ Cars
 ![Cool Cars](https://images.pexels.com/photos/170811/pexels-photo-170811.jpeg)
+![Cars](https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=600&q=60)
+
 
 Cars have fascinated me ever since I was young. Their speed, design, and engineering make them incredible machines. I enjoy learning about both classic and modern cars. Classic cars are a window into history, showing styles and technologies from different eras. They have unique designs, engines, and often tell a story about the time they were built.
 
@@ -21,6 +33,7 @@ Cars are not just machines—they are symbols of creativity and freedom. Each ca
 
 ## 🌌 Space
 ![Beautiful Space](https://images.pexels.com/photos/2150/sky-space-dark-galaxy.jpg)
+![Space](https://images.unsplash.com/photo-1581092334425-5fa3a06c3cd1?auto=format&fit=crop&w=600&q=60)
 
 Space is enormous, mysterious, and full of wonders. I love exploring stars, planets, galaxies, and the amazing phenomena of the universe. Learning about space sparks curiosity and makes me realize how small yet connected we are in the cosmos. From black holes to distant exoplanets, the universe is full of surprises.
 
@@ -76,10 +89,11 @@ Programming also teaches logical thinking and persistence. Every project is a ch
 
 ---
 
-## 🕵️ CIA Agent Profile
-- Code Name: **AGENT XXai**  
-- Agent Number: 007-XXA-2025  
-- Specialty: Cyber Operations & Programming  
-- Status: Active  
+# SECRET AGENT PASSPORT
+![CIA Logo](https://upload.wikimedia.org/wikipedia/commons/6/6d/CIA_logo.svg)
+**Code Name:** AGENT XXai  
+**Agent Number:** 007-XXA-2025  
+**Specialty:** Cyber Operations & Programming  
+
 
 **Secret:** Even secret agents need hobbies… mine are faster, bigger, and a little out of this world! 🌌🕵️🏎️💻
