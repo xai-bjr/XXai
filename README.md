@@ -1,6 +1,6 @@
-# 🌌 GearOrbit - XXai’s Hobby Website
+ # 🌌 GearOrbit - XXai’s Hobby Website
 
-Welcome to **GearOrbit**, my personal hobby site! Here, I share my passions for **Cars, Space, Agents, and Programming**. This website is where imagination meets learning, and I love combining facts, stories, and visuals to explore the world in my own way. Every section includes images, fun facts, and interesting details about my hobbies.
+Welcome to **GearOrbit**, my personal hobby site! Here, I share my passions for **Cars, Space, Agents, and Programming**. This website is where imagination meets learning, and I love combining facts, stories, and visuals to explore the world in my own way. Every section includes images, fun facts, and interesting details about my hobbies. i am chan his brother
 
 ---
 Content
