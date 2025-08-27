@@ -1,6 +1,6 @@
  # 🌌 GearOrbit - XXai’s Hobby Website
 
-Welcome to **GearOrbit**, my personal hobby site! Here, I share my passions for **Cars, Space, Agents, and Programming**. This website is where imagination meets learning, and I love combining facts, stories, and visuals to explore the world in my own way. Every section includes images, fun facts, and interesting details about my hobbies. i am chan his brother
+Welcome to **GearOrbit**, my personal hobby site! Here, I share my passions for **Cars, Space, Agents, and Programming**. This website is where imagination meets learning, and I love combining facts, stories, and visuals to explore the world in my own way. Every section includes images, fun facts, and interesting details about my hobbies. 
 
 ---
 Content
@@ -96,4 +96,4 @@ Programming also teaches logical thinking and persistence. Every project is a ch
 **Specialty:** Cyber Operations & Programming  
 
 
-**Secret:** Even secret agents need hobbies… mine are faster, bigger, and a little out of this world! 🌌🕵️🏎️💻
+**Secret:** Even secret agents need hobbies… mine are faster, bigger, and a little out of this world! 🌌🕵️🏎️💻 + they need mind too do it ok.
